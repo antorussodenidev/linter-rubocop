@@ -9,9 +9,9 @@ Linter package must be installed in order to use this plugin. If Linter is not i
 ### rubocop installation
 Before using this plugin, you must ensure that `rubocop` is installed on your system. To install `rubocop`, do the following:
 
-1. Install [ruby](https://www.ruby-lang.org/).
+1. Install [Ruby](https://www.ruby-lang.org/).
 
-2. Install [rubocop](https://github.com/bbatsov/rubocop) by typing the following in a terminal:
+2. Install [Rubocop](https://github.com/bbatsov/rubocop) by typing the following in a terminal:
    ```
    gem install rubocop
    ```
